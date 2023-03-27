@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/AppTamuWeb/index.js/static/css/main.53bcab0a.css",
-    "main.js": "/AppTamuWeb/index.js/static/js/main.565aa2c6.js",
-    "static/media/Logo LBI.png": "/AppTamuWeb/index.js/static/media/Logo LBI.05a44ee11b843e8da143.png",
-    "index.html": "/AppTamuWeb/index.js/index.html",
-    "main.53bcab0a.css.map": "/AppTamuWeb/index.js/static/css/main.53bcab0a.css.map",
-    "main.565aa2c6.js.map": "/AppTamuWeb/index.js/static/js/main.565aa2c6.js.map"
+    "main.css": "/AppTamuWeb/src/index.js/static/css/main.53bcab0a.css",
+    "main.js": "/AppTamuWeb/src/index.js/static/js/main.94f42754.js",
+    "static/media/Logo LBI.png": "/AppTamuWeb/src/index.js/static/media/Logo LBI.05a44ee11b843e8da143.png",
+    "index.html": "/AppTamuWeb/src/index.js/index.html",
+    "main.53bcab0a.css.map": "/AppTamuWeb/src/index.js/static/css/main.53bcab0a.css.map",
+    "main.94f42754.js.map": "/AppTamuWeb/src/index.js/static/js/main.94f42754.js.map"
   },
   "entrypoints": [
     "static/css/main.53bcab0a.css",
-    "static/js/main.565aa2c6.js"
+    "static/js/main.94f42754.js"
   ]
 }

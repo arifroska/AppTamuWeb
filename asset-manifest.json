@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/AppTamuWeb/src/index.js/static/css/main.53bcab0a.css",
-    "main.js": "/AppTamuWeb/src/index.js/static/js/main.94f42754.js",
-    "static/media/Logo LBI.png": "/AppTamuWeb/src/index.js/static/media/Logo LBI.05a44ee11b843e8da143.png",
-    "index.html": "/AppTamuWeb/src/index.js/index.html",
-    "main.53bcab0a.css.map": "/AppTamuWeb/src/index.js/static/css/main.53bcab0a.css.map",
-    "main.94f42754.js.map": "/AppTamuWeb/src/index.js/static/js/main.94f42754.js.map"
+    "main.css": "/static/css/main.53bcab0a.css",
+    "main.js": "/static/js/main.ec505761.js",
+    "static/media/Logo LBI.png": "/static/media/Logo LBI.05a44ee11b843e8da143.png",
+    "index.html": "/index.html",
+    "main.53bcab0a.css.map": "/static/css/main.53bcab0a.css.map",
+    "main.ec505761.js.map": "/static/js/main.ec505761.js.map"
   },
   "entrypoints": [
     "static/css/main.53bcab0a.css",
-    "static/js/main.94f42754.js"
+    "static/js/main.ec505761.js"
   ]
 }
